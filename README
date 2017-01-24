@@ -1,0 +1,14 @@
+Compresses files by substituting words with the help of a dictionary.
+
+NOTE: This is a project for getting in touch with Haskell.
+      It's probably not useful at all, because only long text files are going to become smaller
+      after compression.
+
+Usage:
+
+Compile with "ghc comp" and "ghc decomp"
+
+COMP usage:   "./comp [input file] [output file]"
+DECOMP usage: "./decomp [input file] [output file]"
+
+The input should only be plain text.
